@@ -43,7 +43,7 @@ MediChain Omni is an intelligent clinical decision support and outbreak surveill
 
 ### Option A: Frontend on Vercel (Recommended)
 1. Go to [vercel.com](https://vercel.com) and click **"Add New Project"**.
-2. Select your repository `khushalgoel/MediChainOmni`.
+2. Select your repository `PranayBhardwaj29/MediChainOmni`.
 3. Set the project root directory to `frontend`; Vercel will detect the Next.js app.
 4. Add your environment variables:
    - `NEXT_PUBLIC_API_URL`: The public URL of your deployed backend (do not use `localhost` in production).
@@ -65,7 +65,7 @@ The free backend may spin down after inactivity, so the first request can take l
 
 ### Option C: Backend on Railway
 1. Go to [railway.app](https://railway.app) and create **"New Project from GitHub Repo"**.
-2. Select `khushalgoel/MediChainOmni`.
+2. Select `PranayBhardwaj29/MediChainOmni`.
 3. In settings, set the **Root Directory** to `/backend`.
 4. Add your environment variables and Railway will deploy automatically.
 
